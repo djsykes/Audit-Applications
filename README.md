@@ -2,7 +2,7 @@
 
 Below are current audit application tests that I am able to share. 
 
-<b>Duplicate Test
+<b>Duplicate Test </b>
 
 This application allows the user to select a file and define what exactly a duplicate is in a file, and then the application pulls out all detail for all of the duplicate pairings and puts it into an Excel spreadsheet. I designed this program because duplicate functions in programs typically remove duplicates. When I am doing a process analysis, I want to see all of the duplicates so I can assess the issue. 
 
